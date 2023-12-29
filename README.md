@@ -4,36 +4,38 @@ I. Introduction
 
 1. Introduction to Dataset
 
-•	Dataset: Global Superstore Sales
+    Dataset: Global Superstore Sales
 
-•	Dataset stores sales information of some products of a company worldwide
+    Dataset stores sales information of some products of a company worldwide
 
-•	Consists of 3 data tables:
+    Consists of 3 data tables:
 
-- Table 1: Orders: Fact order
+      - Table 1: Orders: Fact order
 
-- Table 2: People: Information of Sales person
+      - Table 2: People: Information of Sales person
 
-- Table 3: Returns: Information of Returned orders
+      - Table 3: Returns: Information of Returned orders
 
 2. Data Dictionary
 
-<img width="135" alt="1" src="https://github.com/Lucas-Nguyen0211/Superstore-Sales-and-Expansion-strategy/assets/144216121/7ef9b55f-ac31-41ca-a976-280ad2435552">
+      <img width="135" alt="1" src="https://github.com/Lucas-Nguyen0211/Superstore-Sales-and-Expansion-strategy/assets/144216121/7ef9b55f-ac31-41ca-a976-280ad2435552">
   
 3. Business Questions
-•	Presenting business situation in international markets to Senior Manager.
-•	Highlight important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market.
+
+  •	Presenting business situation in international markets to Senior Manager.
+
+  •	Highlight important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market.
 
 II. Design Thinking Method
 
-Here are the five steps of design thinking:
+  Here are the five steps of design thinking:
 
-Step 1 - Empathize
+  Step 1 - Empathize
 
-<img width="504" alt="2" src="https://github.com/Lucas-Nguyen0211/Superstore-Sales-and-Expansion-strategy/assets/144216121/355a14e4-5658-4534-9075-faf254ad0cc8">
+  <img width="504" alt="2" src="https://github.com/Lucas-Nguyen0211/Superstore-Sales-and-Expansion-strategy/assets/144216121/355a14e4-5658-4534-9075-faf254ad0cc8">
 
 
-Step 2 - Define
+  Step 2 - Define
 
 <img width="504" alt="3" src="https://github.com/Lucas-Nguyen0211/Superstore-Sales-and-Expansion-strategy/assets/144216121/d36fd093-6140-4282-8bb4-576f40470dc7">
 
@@ -96,17 +98,17 @@ IV. Insights
 
 9, According to profit,
 
-•	Technology is the most profitable category.
+   •	Technology is the most profitable category.
 
-•	Consumer is the most profitable segment. → APAC is the market where we have the highest profit ~ 0.44M and Central EU is the Market region with the highest profit.
+   •	Consumer is the most profitable segment. → APAC is the market where we have the highest profit ~ 0.44M and Central EU is the Market region with the highest profit.
 
 10, According to Return of Sales (ROS)
 
-•	Technology and Office supplies bring the highest ROS
+   •	Technology and Office supplies bring the highest ROS
 
-•	As for Segment, it's the same about ROS
+   •	As for Segment, it's the same about ROS
 
-•	Canada is the market that brings the highest ROS
+   •	Canada is the market that brings the highest ROS
 
 V. Recommendations
 
@@ -114,21 +116,21 @@ Market expansion strategy and key products
 
 1, If we have large capital, we can focus on developing APAC, US, EU, LATAM regions, more specifically Market regions: Central + North EU, APAC, West + East US, North LATAM.
 
-•	Note: the APAC market needs the most focus.
+   •	Note: the APAC market needs the most focus.
 
-•	The main category is: Technology + office supplies.
+   •	The main category is: Technology + office supplies.
 
-•	Main sub-category are: Binders, Storage, Art, Paper, Chairs, Phones and Accessories.
+   •	Main sub-category are: Binders, Storage, Art, Paper, Chairs, Phones and Accessories.
 
-•	Segment to be targeted is: Consumer + Corporate.
+   •	Segment to be targeted is: Consumer + Corporate.
 
 2, If we have limited capital, we need to pay attention to the ROS index, now there are 2 markets that need to spend a little capital but bring high profits: Canada and Africa.
 
-•	Note: the Canadian market needs the most focus.
+   •	Note: the Canadian market needs the most focus.
 
-•	Main products are: Technology + office supplies.
+   •	Main products are: Technology + office supplies.
 
-•	Main sub-category are: Art, Binders, Storge.
+   •	Main sub-category are: Art, Binders, Storge.
 
-•	Segment to be targeted is: Consumer + Corporate + Home office.
+   •	Segment to be targeted is: Consumer + Corporate + Home office.
 
